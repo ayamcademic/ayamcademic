@@ -1,3 +1,6 @@
 #akusayangtill
 <h1>fhhfhhheh</h1>
-![GIF](giphy.gif)
+
+<p align="center">
+  <img src="assets/giphy.gif" width="300"/>
+</p>
