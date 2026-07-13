@@ -53,4 +53,3 @@
 > *"Technology is where logic meets creativity."*
 
 </div>
-````
