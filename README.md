@@ -3,7 +3,7 @@
 
 # AYYIN NISWAH INAYAH
 
-### SOFTWARE ENGINEERING STUDENT
+### SOFTWARE ENGINEERING STUDENT at vocational high school SMKN 1 Balikpapan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Exploring+Technology;Interested+in+Electronics;Game+Design+%26+Sound+Design;Always+Learning+Something+New" />
 
@@ -47,15 +47,6 @@
 
 ---
 
-## ✦ GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
----
 
 <div align="center">
 
