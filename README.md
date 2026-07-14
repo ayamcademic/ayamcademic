@@ -17,7 +17,7 @@
 
 ```txt
 👤 Name        : Ayyin Niswah Inayah
-📍 Location    : Indonesia
+📍 Location    : Balikpapan, Indonesia
 🎓 Education   : Software Engineering Student
 
 ♡ Interests
