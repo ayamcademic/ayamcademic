@@ -45,7 +45,8 @@
 ## ✦ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,git,github,vscode,figma,blender,ps"/>
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,git,github,vscode,figma,godot,unity,arduino,postman"/> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,postman,mysql,git,vscode,figma,godot,unity,arduino"/>
 </p>
 
 ---
