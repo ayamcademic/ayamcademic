@@ -53,7 +53,7 @@ CSS         	2      repos	███████████████░░░
 <!-- CoreDump Stats -->
 <sub><i>Started tracking on 23/10/26</i></sub>
 <br>
-<img src="https://coredump.vercel.app/api/stats?username=ayamcademic&type=stats-card" alt="CoreDump Stats" />
+<img src="https://coredump.vercel.app/api/stats?username=ayamcademic" alt="CoreDump Stats" />
 <br><br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
