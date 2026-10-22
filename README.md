@@ -52,7 +52,7 @@ CSS         	2      repos	███████████████░░░
 
 <!-- Activity Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ayamcademic&bg_color=0B0A0F&color=9B5CFF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ayamcademic&bg_color=0B0A0F&color=9B5CFF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity"
   alt="GitHub Activity Graph"
   width="100%"
 />
