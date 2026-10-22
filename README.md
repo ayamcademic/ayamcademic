@@ -57,16 +57,13 @@ CSS         	2      repos	███████████████░░░
 
 <br><br>
 
-<div style="margin-top: 20px;">
-  <div style="position: relative; display: inline-block; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.1);">
-    <img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="320" style="display: block; opacity: 0.85;" />
-    
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%); padding: 30px 15px 15px 15px; text-align: center;">
-      <p style="margin: 0; color: #fff; font-family: 'Fira Code', monospace; font-size: 12px; letter-spacing: 1px; text-shadow: 0 2px 4px rgba(0,0,0,0.8);">
-        <i>"Born to be music student, forced to fall in this pit"</i>
-      </p>
-    </div>
-  </div>
-</div>
+<br>
+
+> *"Born to be music student, forced to fall in this pit"*
+
+<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="400" style="border-radius: 8px;" />
+
+<br><br>
+
 
 </div>
