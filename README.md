@@ -1,62 +1,17 @@
-
 <div align="center">
 
-# AYYIN NISWAH INAYAH
+**Software Engineering Student** · SMK Negeri 1 Balikpapan
+<br>
+<br>
 
-### SOFTWARE ENGINEERING STUDENT at vocational high school: SMK Negeri 1 Balikpapan
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Exploring+Technology;Interested+in+Electronics;Game+Design+%26+Sound+Design;Always+Learning+Something+New" />
-
-*"Learning one step at a time, creating with curiosity."*
-
-</div>
-
----
-
-## ✦ Profile
-
-```txt
-👤 Name        : Ayyin Niswah Inayah
-📍 Location    : Balikpapan, Indonesia
-🎓 Education   : Software Engineering Student
-
-♡ Interests
-├─ ⚡ Electronics
-├─ 🎮 Game Design
-├─ 🎧 Sound Design
-└─ 💻 Web Development
-
-♡ Favorite Subjects
-├─ 📐 Mathematics
-├─ ⚡ Physhics (mainly Electricity)
-├─ 💲 Economics (Macro)
-└─ 🇬🇧 English
+<!-- <p>
+NANTI AKU BELUM UP DI ITCH.IO 
+  <a href="LINK_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="LINK_ITCH"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  <a href="LINK_PLAYSTORE"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+</p> -->
 
 
-🌱 Currently Learning
-├─ HTML • CSS • JavaScript
-├─ PHP • Laravel
-├─ Python (Manim & RenPy)
-└─ UI & Creative Development
-```
-
----
-
-## ✦ Languages & Tools
-
-<p align="center">
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,git,github,vscode,figma,godot,unity,arduino,postman"/> -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,postman,mysql,git,vscode,figma,godot,unity,arduino"/>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ayamcademic&background=0B0A0F&border=2A2435&stroke=2A2435&ring=9B5CFF&fire=9B5CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B5CFF&sideLabels=C8C1D8&dates=777180"
-    alt="GitHub Streak Stats"
-  />
-</p>
 
 <!-- README-STATS:START -->
 
@@ -92,7 +47,25 @@ CSS         	2      repos	███████████████░░░
 ```
 
 <!-- README-STATS:END -->
+<br>
+<br>
 
+  <img
+    src="https://streak-stats.demolab.com/?user=ayamcademic&background=0B0A0F&border=2A2435&stroke=2A2435&ring=9B5CFF&fire=9B5CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B5CFF&sideLabels=C8C1D8&dates=777180"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<br>
 <div align="center">
-"Technology is where logic meets creativity."
+"Born to be music student, forced to fall in this pit"
+<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="300" />
 </div>
+
+<!-- <details> 
+
+entahlah belum ada ide
+<summary>tmi section</summary>
+<br/>
+<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="300" />
+</details> -->
