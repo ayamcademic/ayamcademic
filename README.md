@@ -58,6 +58,10 @@
   />
 </p>
 
+<!-- README-STATS:START -->
+
+<!-- README-STATS:END -->
+
 <div align="center">
 "Technology is where logic meets creativity."
 </div>
