@@ -54,8 +54,15 @@ CSS         	2      repos	███████████████░░░
 <br>
 
 
-<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="400" style="border-radius: 8px;" />
-> *"Born to be music student, forced to fall in this pit"*
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="400" style="border-radius: 8px;" />
+      <br>
+      <i>"Born to be music student, forced to fall in this pit"</i>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
