@@ -51,7 +51,7 @@ CSS         	2      repos	███████████████░░░
 <br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=ayamcademic&background=0B0A0F&border=2A2435&stroke=2A2435&ring=9B5CFF&fire=9B5CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B5CFF&sideLabels=C8C1D8&dates=777180"
+  src="https://streak-stats.demolab.com/?user=ayamcademic&background=0B0A0F&border=2A2435&stroke=2A2435&ring=9B5CFF&fire=9B5CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B5CFF&sideLabels=C8C1D8&dates=777180&width=800"
   alt="GitHub Streak Stats"
 />
 
