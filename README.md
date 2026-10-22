@@ -51,7 +51,7 @@ CSS         	2      repos	███████████████░░░
 <br>
 
 <!-- Activity Graph -->
-[![ayamcademic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayamcademic&theme=rogue)](https://github.com/ashutosh007/github-readme-activity-graph)
+[![ayamcademic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayamcademic&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
