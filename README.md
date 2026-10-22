@@ -50,11 +50,11 @@ CSS         	2      repos	███████████████░░░
 
 <br>
 
-<!-- Activity Graph -->
-[![ayamcademic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayamcademic&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- CoreDump Stats -->
+<sub><i>Started tracking on 23/10/26</i></sub>
 <br>
-<br>
+<img src="https://coredump.vercel.app/api/stats?username=ayamcademic&type=stats-card" alt="CoreDump Stats" />
+<br><br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
