@@ -50,20 +50,20 @@ CSS         	2      repos	███████████████░░░
 
 <br>
 
+
+<br>
+
+
+<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="400" style="border-radius: 8px;" />
+> *"Born to be music student, forced to fall in this pit"*
+
+<br><br>
+
 <img
   src="https://streak-stats.demolab.com/?user=ayamcademic&background=0B0A0F&border=2A2435&stroke=2A2435&ring=9B5CFF&fire=9B5CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9B5CFF&sideLabels=C8C1D8&dates=777180&width=800"
   alt="GitHub Streak Stats"
 />
 
 <br><br>
-
-<br>
-
-> *"Born to be music student, forced to fall in this pit"*
-
-<img src="https://media1.tenor.com/m/xT6jr25Pm18AAAAd/alien-stage-alien-stage-till.gif" alt="Alien Stage Till" width="400" style="border-radius: 8px;" />
-
-<br><br>
-
 
 </div>
