@@ -59,6 +59,38 @@
 </p>
 
 <!-- README-STATS:START -->
+
+```
+🕰️ I get my jam on during the daytime!
+
+🌞 Morning  	41     commits	█████████████░░░░░░░░░░░░░░░░░	16.60%
+🌆 Daytime  	92     commits	██████████████████████████████	37.25%
+🌃 Evening  	77     commits	█████████████████████████░░░░░	31.17%
+🌙 Night    	37     commits	████████████░░░░░░░░░░░░░░░░░░	14.98%
+```
+
+```
+📅 I'm most productive on Thursdays!
+
+Monday      	16     commits	████████░░░░░░░░░░░░░░░░░░░░░░	6.48%
+Tuesday     	36     commits	███████████████████░░░░░░░░░░░	14.57%
+Wednesday   	52     commits	████████████████████████████░░	21.05%
+Thursday    	55     commits	██████████████████████████████	22.27%
+Friday      	39     commits	█████████████████████░░░░░░░░░	15.79%
+Saturday    	24     commits	█████████████░░░░░░░░░░░░░░░░░	9.72%
+Sunday      	25     commits	█████████████░░░░░░░░░░░░░░░░░	10.12%
+```
+
+```
+🧪 HTML for the win!
+
+HTML        	4      repos	██████████████████████████████	16.67%
+PHP         	4      repos	██████████████████████████████	16.67%
+Blade       	3      repos	██████████████████████░░░░░░░░	12.50%
+JavaScript  	3      repos	██████████████████████░░░░░░░░	12.50%
+CSS         	2      repos	███████████████░░░░░░░░░░░░░░░	8.33%
+```
+
 <!-- README-STATS:END -->
 
 <div align="center">
